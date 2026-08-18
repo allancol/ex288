@@ -9,6 +9,7 @@ Repo:
 https://github.com/rlaskew/openshift-ex288-training
 https://github.com/lutfigaranti/DO288/tree/master/s2i-do288-httpd
 https://github.com/jeromeza/EX288-PREP
+https://github.com/tsrana
 
 cd C:\_dev\ex288\ex288
 git add . && git commit -m "fix" && git push
